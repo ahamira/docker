@@ -1,0 +1,36 @@
+{
+  "$id": "91",
+  "AutoRefresh": true,
+  "AutoRefreshRemotes": true,
+  "CommitTextLinks": null,
+  "DraftCommitMsg": "",
+  "IncomingSavedCount": 0,
+  "LastCheckedRemotes": "2025-08-30T12:27:01.9289887+09:00",
+  "LastUsedView": 1,
+  "LogBranchFilterIndex": 0,
+  "OutgoingSavedCount": 0,
+  "SidebarExpandedItems": [
+    "ブランチ",
+    "タグ",
+    "リモート",
+    "スタッシュ"
+  ],
+  "SidebarWidth": 210.0,
+  "SubtreeLinks": [],
+  "NeedsLargeFilesPull": false,
+  "RemoteProjectLinks": [
+    {
+      "$id": "92",
+      "BaseUrl": "https://github.com",
+      "Identifier": "ahamira/docker",
+      "RemoteName": "origin",
+      "Type": 0,
+      "Username": "gyakuhannta",
+      "CloneUrl": null,
+      "ProjectUrl": null,
+      "AccountId": "",
+      "AvatarUrl": null,
+      "DisplayName": "origin: https://github.com"
+    }
+  ]
+}
